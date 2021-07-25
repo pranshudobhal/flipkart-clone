@@ -1,0 +1,91 @@
+[{
+    "id": 1,
+    "name": "Solid Men Black Track Pants",
+    "brand": "ADIDAS",
+    "price": "1169",
+    "sizes": ["S", "M", "L"],
+    "idealFor": "MEN",
+    "imageURL": "https://rukminim1.flixcart.com/image/880/1056/kpinwy80/track-pant/4/9/z/m-ha7040-adidas-original-imag3qkugf7rsnm2.jpeg?q=50"
+  },
+  {
+    "id": 2,
+    "name": "Solid Men Round Neck Green T-Shirt",
+    "brand": "ADIDAS",
+    "price": "1169",
+    "sizes": ["S", "L"],
+    "idealFor": "MEN",
+    "imageURL": "https://rukminim1.flixcart.com/image/880/1056/kosxzm80/t-shirt/2/8/r/xs-gq8733-reebok-original-imag36awxar5tyaa.jpeg?q=50"
+  },
+  {
+    "id": 3,
+    "name": "Solid Men Polo Neck Red T-Shirt",
+    "brand": "VAN HEUSEN",
+    "price": "449",
+    "sizes": ["M", "L"],
+    "idealFor": "MEN",
+    "imageURL": "https://rukminim1.flixcart.com/image/880/1056/kdrpksw0-0/t-shirt/5/p/k/m-vskpwrgp118780-van-heusen-sport-original-imafukvunnyqtkwx.jpeg?q=50"
+  },
+  {
+    "id": 4,
+    "name": "Solid Women Round Neck Black T-Shirt",
+    "brand": "PUMA",
+    "price": "385",
+    "sizes": ["S", "M", "L"],
+    "idealFor": "WOMEN",
+    "imageURL": "https://rukminim1.flixcart.com/image/880/1056/k7m8brk0/t-shirt/v/g/z/xs-85178601-puma-original-imafpthenuy7egu8.jpeg?q=50"
+  },
+  {
+    "id": 5,
+    "name": "Slim Men Grey Jeans",
+    "brand": "METRONAUT",
+    "price": "629",
+    "sizes": ["S", "M", "L"],
+    "idealFor": "MEN",
+    "imageURL": "https://rukminim1.flixcart.com/image/880/1056/kqttg280/jean/5/8/i/32-mss21jn688-metronaut-original-imag4rcndacnwraz.jpeg?q=50"
+  },
+  {
+    "id": 6,
+    "name": "Skinny Men Blue Jeans",
+    "brand": "PETER ENGLAND",
+    "price": "899",
+    "sizes": ["S", "M"],
+    "idealFor": "MEN",
+    "imageURL": "https://rukminim1.flixcart.com/image/880/1056/kosxzm80/jean/g/0/i/34-pjdnpskpu21231-peter-england-original-imag35v3hzyw8p4k.jpeg?q=50"
+  },
+  {
+    "id": 7,
+    "name": "Solid Women Dark Blue Track Pants",
+    "brand": "ALAN JONES",
+    "price": "611",
+    "sizes": ["S", "M", "L"],
+    "idealFor": "WOMEN",
+    "imageURL": "https://rukminim1.flixcart.com/image/880/1056/kbpeoi80/track-pant/w/5/6/xl-wm20-jog-p08-navy-alan-jones-original-imafszpbn63qbc47.jpeg?q=50"
+  },
+  {
+    "id": 8,
+    "name": "Solid Men Black Sports Shorts",
+    "brand": "VAN HEUSEN",
+    "price": "615",
+    "sizes": ["S", "L"],
+    "idealFor": "MEN",
+    "imageURL": "https://rukminim1.flixcart.com/image/880/1056/kfmv9u80/short/6/x/z/m-50003-black-van-heusen-original-imafwfgeqyewcgqy.jpeg?q=50"
+  },
+  {
+    "id": 9,
+    "name": "Graphic Print Women Round Neck Black T-Shirt",
+    "brand": "PUMA",
+    "price": "455",
+    "sizes": ["M", "L"],
+    "idealFor": "WOMEN",
+    "imageURL": "https://rukminim1.flixcart.com/image/880/1056/kpwybgw0/t-shirt/l/a/u/xs-85200651-puma-original-imag4yvubh3vxtfj.jpeg?q=50"
+  },
+  {
+    "id": 10,
+    "name": "Printed Men Round Neck Grey T-Shirt",
+    "brand": "PUMA",
+    "price": "539",
+    "sizes": ["S", "M", "L"],
+    "idealFor": "MEN",
+    "imageURL": "https://rukminim1.flixcart.com/image/880/1056/kfk0e4w0-0/t-shirt/w/t/4/l-58347503-puma-original-imafvzkjydzktzxg.jpeg?q=50"
+  }
+]
